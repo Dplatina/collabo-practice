@@ -1,2 +1,1 @@
-# collabo-practice
-SSAFY practice
+코끼리
